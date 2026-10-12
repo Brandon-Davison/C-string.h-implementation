@@ -1,2 +1,4 @@
 # C-String-Functions
-Implimentation of some common functions from string.h 
+Implementation of some common functions from string.h 
+
+This is using pointer arithmetic for everything is a learning exercise. 
